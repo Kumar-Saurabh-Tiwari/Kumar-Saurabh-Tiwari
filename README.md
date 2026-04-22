@@ -1,46 +1,62 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,7,9&height=200&section=header&text=Saurabh%20Kumar%20Tiwari&fontSize=72&fontColor=E8E8E8&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Software%20Developer&descAlignY=60&descSize=22&descColor=A0A0A0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,14,16,18&height=220&section=header&text=Saurabh%20Kumar%20Tiwari&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Architect%20%7C%20Software%20Engineer&descAlignY=62&descSize=22&descColor=cccccc"/>
 
 <!-- Typing SVG -->
+<div align="center">
 <a href="https://github.com/Kumar-Saurabh-Tiwari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C0C0C0&center=true&vCenter=true&random=false&width=680&lines=Full-Stack+Developer;Building+Interactive+Web+Applications;Frontend+%7C+Backend+%7C+Database+Design;AI%2FML+Enthusiast;Creative+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=Architecting+Scalable+Cloud+Solutions;Full-Stack+Engineering+Expertise;Frontend+Precision+%7C+Backend+Performance;AI-Driven+Product+Innovation;Transforming+Complexity+into+Simplicity" alt="Typing SVG" />
 </a>
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Kumar-Saurabh-Tiwari&label=Profile+Views&color=1a1a1a&style=for-the-badge" alt="Profile Views" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/Kumar-Saurabh-Tiwari?label=Followers&style=for-the-badge&color=1a1a1a&logo=github&logoColor=white" alt="GitHub Followers" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kumar-Saurabh-Tiwari&label=Profile+Views&color=blue&style=flat-square" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Kumar-Saurabh-Tiwari?label=Followers&style=flat-square&color=blue&logo=github&logoColor=white" alt="GitHub Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Maintained-Yes-green.svg?style=flat-square" alt="Maintained" />
+</div>
 
 </div>
 
 ---
 
-<!-- About Me -->
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+## 🚀 Professional Summary
+
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+
+Experienced **Full Stack Software Engineer** dedicated to building high-performance, scalable web environments. Specialized in modern JavaScript ecosystems, distributed systems, and AI integration. Proven track record of delivering end-to-end solutions that balance technical excellence with business value.
+
+- 🏗️ **Architecting** high-availability backend services with Node.js & Python.
+- 🎨 **Crafting** polished, responsive UIs with React & Next.js.
+- ⚙️ **Optimizing** CI/CD pipelines & Infrastructure as Code (IaC).
+- 🧠 **Integrating** LLMs and Machine Learning models into production apps.
+
+---
 
 ## ◈ About Me
 
 ```javascript
 const saurabh = {
   name     : "Saurabh Kumar Tiwari",
-  role     : "Full Stack Software Developer",
+  role     : "Senior Full Stack Engineer",
   location : "India",
-  status   : "Working from home",
+  status   : "Open to High-Impact Opportunities",
 
   expertise: [
-    "Frontend Development",
-    "Backend Services",
-    "Database Design",
+    "Enterprise Architecture",
+    "Distributed Systems",
+    "Cloud Infrastructure",
     "AI/ML Integration",
-    "Interactive Applications",
+    "Performance Optimization",
   ],
 
-  passion  : "Building solutions that make an impact",
+  philosophy : "Code is for humans, performance is for machines.",
 
-  principle: "Clean code, continuous learning, user-centric design",
+  principle: "Scalability, Maintainability, User-centricity",
 };
 ```
 
@@ -48,77 +64,54 @@ const saurabh = {
 
 ---
 
-## ◈ Technology Stack
+## 🛠️ Core Competencies
 
 <div align="center">
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs&perline=8" />
-</p>
-<p>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
-  <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-0081CB?style=for-the-badge&logo=mui&logoColor=white"/>
-</p>
-
-### Backend & Runtime
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,java,express,fastapi&perline=8" />
-</p>
-<p>
-  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase&perline=8" />
-</p>
-
-### AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=8" />
-</p>
-<p>
-  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
-
-### Tools & Version Control
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman&perline=8" />
-</p>
+| Area | Technologies |
+| :--- | :--- |
+| **Frontend** | `React`, `Next.js`, `TypeScript`, `Tailwind CSS`, `Redux`, `WebSockets` |
+| **Backend** | `Node.js`, `Python`, `Java`, `Spring Boot`, `FastAPI`, `GraphQL` |
+| **Database** | `PostgreSQL`, `MongoDB`, `Redis`, `MySQL`, `Prisma` |
+| **DevOps** | `Docker`, `Kubernetes`, `AWS`, `GitHub Actions`, `CI/CD` |
+| **AI/ML** | `OpenAI API`, `TensorFlow`, `Scikit-Learn`, `LangChain` |
 
 </div>
-
----
-
-## ◈ GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Kumar-Saurabh-Tiwari&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&title_color=C0C0C0&icon_color=888888&text_color=C0C0C0&bg_color=0d1117" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar-Saurabh-Tiwari&theme=github-dark-blue&hide_border=true&ring=888888&fire=C0C0C0&currStreakLabel=C0C0C0" />
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-Saurabh-Tiwari&layout=compact&theme=github_dark&hide_border=true&langs_count=8&title_color=C0C0C0&text_color=A0A0A0&bg_color=0d1117" />
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,postgres,mongodb,docker,aws,githubactions&theme=dark" />
 </div>
 
 ---
 
-## ◈ Contribution Graph
+## 📊 Performance Metrics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumar-Saurabh-Tiwari&theme=github-compact&hide_border=true&area=true&color=888888&line=888888&point=C0C0C0&area_color=333333" />
+  <table border="0">
+    <tr>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api?username=Kumar-Saurabh-Tiwari&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" /></td>
+      <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kumar-Saurabh-Tiwari&layout=compact&theme=dark&hide_border=true&langs_count=10" /></td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kumar-Saurabh-Tiwari&theme=dark&hide_border=true" />
 </div>
 
 ---
 
-## ◈ Contribution Snake
+## ◈ Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kumar-Saurabh-Tiwari&theme=github-compact&hide_border=true&area=true&color=ffffff&line=ffffff&point=ffffff&area_color=333333" />
+</div>
+
+---
+
+## ◈ Timeline
 
 <div align="center">
   <picture>
@@ -130,18 +123,18 @@ const saurabh = {
 
 ---
 
-## ◈ Connect
+## 📬 Connect & Collaborate
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kumar-Saurabh-Tiwari)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-saurabh-tiwari)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumar-saurabh-tiwari)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saurabh@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
 
 </div>
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,5,7,9&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,14,16,18&height=100&section=footer"/>
 </div>
